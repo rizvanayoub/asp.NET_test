@@ -1,0 +1,10 @@
+C:\Users\rizvan\repo\asp.NET_test\test_ASP\bin\Debug\netcoreapp2.0\test_ASP.deps.json
+C:\Users\rizvan\repo\asp.NET_test\test_ASP\bin\Debug\netcoreapp2.0\test_ASP.runtimeconfig.json
+C:\Users\rizvan\repo\asp.NET_test\test_ASP\bin\Debug\netcoreapp2.0\test_ASP.runtimeconfig.dev.json
+C:\Users\rizvan\repo\asp.NET_test\test_ASP\bin\Debug\netcoreapp2.0\test_ASP.dll
+C:\Users\rizvan\repo\asp.NET_test\test_ASP\bin\Debug\netcoreapp2.0\test_ASP.pdb
+C:\Users\rizvan\repo\asp.NET_test\test_ASP\obj\Debug\netcoreapp2.0\test_ASP.csproj.CoreCompileInputs.cache
+C:\Users\rizvan\repo\asp.NET_test\test_ASP\obj\Debug\netcoreapp2.0\test_ASP.AssemblyInfoInputs.cache
+C:\Users\rizvan\repo\asp.NET_test\test_ASP\obj\Debug\netcoreapp2.0\test_ASP.AssemblyInfo.cs
+C:\Users\rizvan\repo\asp.NET_test\test_ASP\obj\Debug\netcoreapp2.0\test_ASP.dll
+C:\Users\rizvan\repo\asp.NET_test\test_ASP\obj\Debug\netcoreapp2.0\test_ASP.pdb
